@@ -1,0 +1,1 @@
+This text file was created under the new "Branch-001" branch of the Git project to observe and test Git's branching functionality.
